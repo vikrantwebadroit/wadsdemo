@@ -14,3 +14,5 @@ class DatabaseSeeder extends Seeder
         $this->call(\Corals\Foundation\database\seeds\CoralDatabaseSeeder::class);
     }
 }
+
+demo
